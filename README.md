@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Tung-YuYeung
-- 🌱 I’m currently learning Machine Learning, Deep Learning and so on...
-- 📫 My email: tungyuyoung@gmail.com
+- 👋 Hi, I’m Tung-Yu Yeung
+- 🌱 I’m currently working on Speech AI...
+- - 📫 My email: tungyuyoung@gmail.com
 
 <!---
 TungyuYoung/TungyuYoung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
