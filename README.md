@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tung-Yu Yeung
-- 🌱 I’m currently working on Speech AI...
+- 🌱 I’m currently working on Speech AI
 - 📫 My email: tungyuyoung@gmail.com
 
 <!---
